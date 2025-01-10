@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Peram Prakash</h1>
-<h3 align="center">A passionate Python developer ,Machine Learning Enthusiast from India</h3>
+<h3 align="center">A passionate Python developer ,Machine Learning and Gen AI Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peramprakash&label=Profile%20views&color=0e75b6&style=flat" alt="peramprakash" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Machine Learning and Generative AI Projects**
 
-- 🌱 I’m currently learning **DSA and JAVA**
+- 🌱 I’m currently learning **DSA using JAVA**
 
 - 📫 How to reach me **prakashperam143@gmail.com**
 
-- ⚡ Fun fact **crazy with friends**
+- ⚡ Fun fact **crazy with friends and family**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
