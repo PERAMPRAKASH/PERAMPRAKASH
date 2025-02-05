@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peramprakash&label=Profile%20views&color=0e75b6&style=flat" alt="peramprakash" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning and Generative AI Projects**
+- 🔭 I’m currently working on **Machine Learning and Django Projects**
 
 - 🌱 I’m currently learning **DSA using JAVA**
 
